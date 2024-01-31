@@ -1,2 +1,2 @@
 # Projects
-A collection of mzý work.
+A collection of my work.
